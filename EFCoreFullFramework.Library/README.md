@@ -1,11 +1,4 @@
-﻿# Getting Started
-The following sample demonstrates how to use EF Core in a full .NET Framework application. 
-
-I started with the following .NET 4.6.1 projects:
-- Console app
-- Class library
-
-## Install Entity Framework
+﻿## Install Entity Framework
 To use EF Core, install the package for the database provider(s) you want to target. This walkthrough uses SQL Server.
 
 Run the following command in Package Manager Console:
